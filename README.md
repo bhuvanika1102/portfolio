@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This website serves as a comprehensive
 ## 🔗 Live Demo
 [View the live website here](https://bhuvanika1102.github.io/portfolio/) 
 
-## 🌟 Features
+##  Features
 
 - **Projects**: A detailed overview of the various projects I have worked on, including descriptions, technologies used, and links to  repositories.
 - **Skills**: A curated list of my technical and professional skills, categorized by expertise.
@@ -13,20 +13,20 @@ Welcome to my personal portfolio website! This website serves as a comprehensive
 - **Certificates**: A gallery of the certificates I've earned from various courses, bootcamps, and professional development programs.
 - **Contact Information**: Easy ways to get in touch with me, including social media links and email.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **HTML**: For structuring the content on the website.
 - **CSS**: For styling and layout, ensuring the site looks great on all devices.
 - **JavaScript**: For adding interactivity and enhancing user experience.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - `index.html`: The main entry point of the website.
 - `style.css`: Contains all the custom styles for the website.
 - `script.js`: Includes the JavaScript code for interactivity.
 
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone this repository and Navigate to the project directory:
    ```bash
