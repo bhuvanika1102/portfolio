@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This website serves as a comprehensive showcase of my projects, skills, interests, and professional achievements. It was crafted using HTML, CSS, and JavaScript to provide a clean and responsive user experience.
 
 ## 🔗 Live Demo
-[View the live website here](https://bhuvanika1102.github.io/Personal_Website/) 
+[View the live website here](https://bhuvanika1102.github.io/portfolio/) 
 
 ## 🌟 Features
 
