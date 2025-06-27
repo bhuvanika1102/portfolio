@@ -37,5 +37,5 @@ Welcome to my personal portfolio website! This website serves as a comprehensive
 
 
 ## 📞 Contact Me
-Feel free to reach out to me via email at bhuvani1102@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/bhuvani-s-a32b58291/
+Feel free to reach out to me via email at bhuvani1102@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/bhuvani1102
 
